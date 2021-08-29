@@ -1,0 +1,6 @@
+.coverage
+.DS_Store
+.idea/
+/docs/_build
+__pycache__/
+
