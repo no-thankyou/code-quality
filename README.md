@@ -1,8 +1,8 @@
 
-Будущий инструмент проверки кода
+Code Quality Checker
 ========================
 
-Поддерживает несколько языков (проверяет или исправляет):
+Supports multiple languages (checks or fix):
 
 -   Python (flake8, autopep8, autoflake, mypy, black)
 -   CSS (stylelint)
@@ -11,10 +11,10 @@
 -   Dockerfile (hadolint)
 -   Ansible (ansible-lint)
 
-Консольные аргументы приложения
+Args
 -------------------------------
 
- Аргумент | Описание
+ Arg | Description
 --- | ---
 `-h, --help` | Отобразить вспомогательное сообщение и завершить работу программы
 `-f, --fix` | Исправить ошибки по возможности
